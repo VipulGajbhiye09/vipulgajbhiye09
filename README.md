@@ -172,6 +172,11 @@
 						<span><strong>Nodemon</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="Nodemon">
 					</td>
+					</td>
+           <td width="25%" align="center">
+						<span><strong>Studio 3T</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.realwire.com/writeitfiles/studio-3t-logo-white-on-green.jpg" alt="Studio 3T">
+					</td>
 				</tr>
 			</tbody>
 		</table>
