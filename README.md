@@ -156,11 +156,19 @@
 		<table>
 			<tbody>
 				<tr>
+	  <td width="25%" align="center">
+						<span><strong>Passport.js</strong></span><br/>
+						<img height="64px" width="64px" src="https://avatars.githubusercontent.com/u/1160530?s=280&v=4" alt="Passport.js">
+					</td>
+	 <td width="25%" align="center">
+						<span><strong>Mongoose</strong></span><br/>
+						<img height="64px" width="64px" src="https://avatars.githubusercontent.com/u/7552965?s=400&v=4" alt="Mongoose">
+					</td>				
           <td width="25%" align="center">
 						<span><strong>Postman</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
 					</td>
-      		<td width="25%" align="center">
+      	  <td width="25%" align="center">
 						<span><strong>Jira</strong></span><br/>
 						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira">
 					</td>
@@ -171,7 +179,6 @@
            <td width="25%" align="center">
 						<span><strong>Nodemon</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="Nodemon">
-					</td>
 					</td>
            <td width="25%" align="center">
 						<span><strong>Studio 3T</strong></span><br/>
